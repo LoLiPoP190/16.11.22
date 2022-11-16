@@ -35,3 +35,18 @@ nav ul li a:hover{
   background-color: rgb(173, 0, 0);
   padding: 15px 20px ;
 }
+
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-image: url(./pic.jpg);
+  height: 100vh;
+  background-size: cover;
+  padding: 0 10%;
+}
+header h1{
+  margin: 0;
+}
