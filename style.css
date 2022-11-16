@@ -127,3 +127,19 @@ footer li a{
   height: 100vh;
   font-weight: bolder;
 }
+
+.settings{
+  height: 95vh;
+}
+.settings div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 800;
+}
+.bottom{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
