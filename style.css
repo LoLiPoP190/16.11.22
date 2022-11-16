@@ -92,3 +92,18 @@ form{
 span{
   font-family:'Roboto', sans-serif ;
 }
+footer{
+  background-image: url(./pic.jpg);
+  display: flex;
+}
+footer ul{
+  display: flex;
+}
+footer ul li{
+  padding: 10px;
+  list-style-type: none;
+}
+footer li a{
+  color: black;
+  text-decoration: none;
+}
