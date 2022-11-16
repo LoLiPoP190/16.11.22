@@ -59,7 +59,13 @@ article{
   background-image: url(./pic.jpg);
   background-size: cover;
 }
+h2{
+  margin: 0;
+  text-align: center;
+}
 .pics1{
+  margin-top: 20px;
+
   display: flex;
   justify-content: space-evenly;
 }
@@ -79,4 +85,10 @@ article{
   margin: 5px 0 15px 0;
   display: flex;
   justify-content: space-around;
+}
+form{
+  margin-left: 20px;
+}
+span{
+  font-family:'Roboto', sans-serif ;
 }
