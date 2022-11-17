@@ -87,7 +87,7 @@ h2{
   justify-content: space-around;
 }
 form{
-  margin-left: 20px;
+  margin: 0 0 0 20px;
 }
 span{
   font-family:'Roboto', sans-serif ;
@@ -126,6 +126,7 @@ footer li a{
   width: 800px;
   height: 100vh;
   font-weight: bolder;
+  margin: 0;
 }
 
 .settings{
